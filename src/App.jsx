@@ -57,9 +57,6 @@ function App() {
           <button className="operator" onClick={() => showButton("+")}>+</button>
         </div>
 
-        <button className="surname" onClick={showSurname}>
-          CALMA
-        </button>
 
       </div>
     </div>
